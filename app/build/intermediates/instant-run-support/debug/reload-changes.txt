@@ -1,0 +1,5 @@
+/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/transforms/instantRun/debug/folders/4000/1/enhanced/com/android/kalite27/ScriptService$override.class
+/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/transforms/instantRun/debug/folders/4000/1/enhanced/com/android/kalite27/config/GlobalConstants$override.class
+/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/transforms/instantRun/debug/folders/4000/1/enhanced/com/android/kalite27/ScriptActivity$override.class
+/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/transforms/instantRun/debug/folders/4000/1/enhanced/com/android/kalite27/BackgroundScriptService$override.class
+/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/transforms/instantRun/debug/folders/4000/1/enhanced/com/android/build/gradle/internal/incremental/AppPatchesLoaderImpl.class

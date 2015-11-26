@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_content_new.png",
+        "source": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/src/main/res/drawable-hdpi/ic_action_content_new.png"
+    },
+    {
+        "merged": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_pdf_file.png",
+        "source": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/src/main/res/drawable-hdpi/ic_pdf_file.png"
+    },
+    {
+        "merged": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/dropdown_popup_background_up.9.png",
+        "source": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/drawable-hdpi/dropdown_popup_background_up.9.png"
+    },
+    {
+        "merged": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_menu_search_holo_light.png",
+        "source": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/drawable-hdpi/ic_menu_search_holo_light.png"
+    },
+    {
+        "merged": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_doc_file.png",
+        "source": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/src/main/res/drawable-hdpi/ic_doc_file.png"
+    },
+    {
+        "merged": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_xls_file.png",
+        "source": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/src/main/res/drawable-hdpi/ic_xls_file.png"
+    },
+    {
+        "merged": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/color_picker_advanced_select_handle.png",
+        "source": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/drawable-hdpi/color_picker_advanced_select_handle.png"
+    },
+    {
+        "merged": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bubble_arrow_up.png",
+        "source": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/drawable-hdpi/bubble_arrow_up.png"
+    },
+    {
+        "merged": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/pageinfo_warning_major.png",
+        "source": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/drawable-hdpi/pageinfo_warning_major.png"
+    },
+    {
+        "merged": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_collections_collection.png",
+        "source": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/src/main/res/drawable-hdpi/ic_collections_collection.png"
+    },
+    {
+        "merged": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bubble.9.png",
+        "source": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/drawable-hdpi/bubble.9.png"
+    },
+    {
+        "merged": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_txt_file.png",
+        "source": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/src/main/res/drawable-hdpi/ic_txt_file.png"
+    },
+    {
+        "merged": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_html_file.png",
+        "source": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/src/main/res/drawable-hdpi/ic_html_file.png"
+    },
+    {
+        "merged": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_docx_file.png",
+        "source": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/src/main/res/drawable-hdpi/ic_docx_file.png"
+    },
+    {
+        "merged": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_xlsx_file.png",
+        "source": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/src/main/res/drawable-hdpi/ic_xlsx_file.png"
+    },
+    {
+        "merged": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_menu_share_holo_light.png",
+        "source": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/drawable-hdpi/ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_xml_file.png",
+        "source": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/src/main/res/drawable-hdpi/ic_xml_file.png"
+    },
+    {
+        "merged": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ondemand_overlay.9.png",
+        "source": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/drawable-hdpi/ondemand_overlay.9.png"
+    },
+    {
+        "merged": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_navigation_back.png",
+        "source": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/src/main/res/drawable-hdpi/ic_action_navigation_back.png"
+    },
+    {
+        "merged": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/dropdown_popup_background_down.9.png",
+        "source": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/drawable-hdpi/dropdown_popup_background_down.9.png"
+    },
+    {
+        "merged": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_folder.png",
+        "source": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/src/main/res/drawable-hdpi/ic_folder.png"
+    },
+    {
+        "merged": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_default_file.png",
+        "source": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/src/main/res/drawable-hdpi/ic_default_file.png"
+    }
+]

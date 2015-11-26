@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_menu_search_holo_light.png",
+        "source": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/drawable-xxxhdpi/ic_menu_search_holo_light.png"
+    },
+    {
+        "merged": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/pageinfo_warning_major.png",
+        "source": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/drawable-xxxhdpi/pageinfo_warning_major.png"
+    },
+    {
+        "merged": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_menu_share_holo_light.png",
+        "source": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/res/drawable-xxxhdpi/ic_menu_share_holo_light.png"
+    }
+]

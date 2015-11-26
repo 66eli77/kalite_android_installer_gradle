@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_xml_file.png",
+        "source": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/src/main/res/drawable-mdpi/ic_xml_file.png"
+    },
+    {
+        "merged": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_pdf_file.png",
+        "source": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/src/main/res/drawable-mdpi/ic_pdf_file.png"
+    },
+    {
+        "merged": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_docx_file.png",
+        "source": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/src/main/res/drawable-mdpi/ic_docx_file.png"
+    },
+    {
+        "merged": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_xls_file.png",
+        "source": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/src/main/res/drawable-mdpi/ic_xls_file.png"
+    },
+    {
+        "merged": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_html_file.png",
+        "source": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/src/main/res/drawable-mdpi/ic_html_file.png"
+    },
+    {
+        "merged": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_content_new.png",
+        "source": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/src/main/res/drawable-mdpi/ic_action_content_new.png"
+    },
+    {
+        "merged": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_collections_collection.png",
+        "source": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/src/main/res/drawable-mdpi/ic_collections_collection.png"
+    },
+    {
+        "merged": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_txt_file.png",
+        "source": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/src/main/res/drawable-mdpi/ic_txt_file.png"
+    },
+    {
+        "merged": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_doc_file.png",
+        "source": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/src/main/res/drawable-mdpi/ic_doc_file.png"
+    },
+    {
+        "merged": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_xlsx_file.png",
+        "source": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/src/main/res/drawable-mdpi/ic_xlsx_file.png"
+    },
+    {
+        "merged": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_action_navigation_back.png",
+        "source": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/src/main/res/drawable-mdpi/ic_action_navigation_back.png"
+    },
+    {
+        "merged": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_default_file.png",
+        "source": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/src/main/res/drawable-mdpi/ic_default_file.png"
+    },
+    {
+        "merged": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_folder.png",
+        "source": "/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/src/main/res/drawable-mdpi/ic_folder.png"
+    }
+]

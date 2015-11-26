@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/libs/libGoogleAnalytics.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b635fdd351d7031266c1e855903cd737763df97c">
+        <dex dex="/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/pre-dexed/debug/libGoogleAnalytics_f4e08a2a24de1eb8763724ab0c55759cb41973cc.jar" />
+    </item>
+    <item
+        jar="/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/exploded-aar/org.xwalk/xwalk_core_library/10.39.235.15/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="28567aede2b45b2894c694cdaf223afedc83662d">
+        <dex dex="/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/pre-dexed/debug/org.xwalk-xwalk_core_library-10.39.235.15_ab7193fd48c78b1609ea0405011d419bfc0f27e1.jar" />
+    </item>
+    <item
+        jar="/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e19387dc3b060af32f5401f84fbe246635256955">
+        <dex dex="/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/pre-dexed/debug/android-support-v4_009b28fb53e29e3bb823d1251858c01766c7dcdf.jar" />
+    </item>
+    <item
+        jar="/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/libs/guava-r06.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4c59dfb09259a04a6f29017fc03a02912f4ae79a">
+        <dex dex="/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/pre-dexed/debug/guava-r06_b27c1702e5f04855cc8c6639f74366c2f4995b8a.jar" />
+    </item>
+    <item
+        jar="/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/libs/locale_platform.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0829dfa494c746b8ab018cdbbf4b6980b6707819">
+        <dex dex="/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/pre-dexed/debug/locale_platform_cef11002ff1d0a4d18ed1baf1f3edbc95acb3351.jar" />
+    </item>
+    <item
+        jar="/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/libs/script.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f24313ca040a7f8ab88a1188e2120fc2af45dc4e">
+        <dex dex="/Users/Eli/AndroidKaliteWorkSpace/kalite27/app/build/intermediates/pre-dexed/debug/script_894bdb732f87a17a9715c5f17d75551f08ac2afb.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,37 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "23.0.2"
+
+    defaultConfig {
+        applicationId "com.android.kalite27"
+        minSdkVersion 16
+        targetSdkVersion 19
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+repositories {
+    maven {
+        url 'https://download.01.org/crosswalk/releases/crosswalk/android/maven2'
+    }
+}
+
+def var = dependencies {
+//    compile 'com.android.support:support-v4:19.1.0'
+//    compile 'com.google.guava:guava:18.0'
+    compile files('libs/android-support-v4.jar')
+    compile files('libs/guava-r06.jar')
+    compile files('libs/libGoogleAnalytics.jar')
+    compile files('libs/locale_platform.jar')
+    compile files('libs/script.jar')
+    compile 'org.xwalk:xwalk_core_library:10.39.235.15'
+}
+var
